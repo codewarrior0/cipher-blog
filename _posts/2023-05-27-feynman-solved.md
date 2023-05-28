@@ -83,7 +83,7 @@ Combined:    WUR VFXGJYTH EI ZXSQXO BGSVRU DOOJXATBKT ARVIX
 Plain:       why if tis dancing you would be // there is brisker pipes than poetry
 Alphabet 1:  XUK    WSL         KIG       AR    WUROR    AOSLHRO       WUMC
 Alphabet 2:      XE     ZJUAXUN     WFSOZ             XK         BXBTK      BFTPVD
-Reversals:       EX                       RA          KX               WUMC DVPTFB
+Reversals:       EX                       RA          KX               CMUW DVPTFB
 Combined:    XUK EX WSL ZJUAXUN KIG WFSOZ RA    WUROR KX AOSLHRO BXBTK CMUW DVPTFB
 ```
 
